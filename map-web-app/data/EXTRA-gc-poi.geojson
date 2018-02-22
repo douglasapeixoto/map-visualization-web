@@ -1,0 +1,12 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","id":"01","properties":{"name":"Griffith University","poitype":"public"},  "geometry":{"type":"Point","coordinates":[153.380180,-27.962404]}},
+{"type":"Feature","id":"02","properties":{"name":"Dreamworld",         "poitype":"park"},    "geometry":{"type":"Point","coordinates":[153.317550,-27.862168]}},
+{"type":"Feature","id":"03","properties":{"name":"Australia Fair",     "poitype":"shopping"},"geometry":{"type":"Point","coordinates":[153.415969,-27.968213]}},
+{"type":"Feature","id":"04","properties":{"name":"Surfers Paradise",   "poitype":"public"},  "geometry":{"type":"Point","coordinates":[153.429942,-28.002778]}},
+{"type":"Feature","id":"05","properties":{"name":"SkyPoint",           "poitype":"public"},  "geometry":{"type":"Point","coordinates":[153.429467,-28.005988]}},
+{"type":"Feature","id":"06","properties":{"name":"Sea World",          "poitype":"park"},    "geometry":{"type":"Point","coordinates":[153.425609,-27.953812]}},
+{"type":"Feature","id":"07","properties":{"name":"Helensvale Station", "poitype":"public"},  "geometry":{"type":"Point","coordinates":[153.338981,-27.925448]}},
+{"type":"Feature","id":"08","properties":{"name":"Movie World",        "poitype":"park"},    "geometry":{"type":"Point","coordinates":[153.312310,-27.911124]}},
+{"type":"Feature","id":"09","properties":{"name":"Wet and Wild",       "poitype":"park"},    "geometry":{"type":"Point","coordinates":[153.317589,-27.914822]}},
+{"type":"Feature","id":"10","properties":{"name":"Harbour Town",       "poitype":"shopping"},"geometry":{"type":"Point","coordinates":[153.388832,-27.931880]}}
+]}

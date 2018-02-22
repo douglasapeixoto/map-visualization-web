@@ -1,0 +1,13 @@
+.example-appear {
+   opacity: 0.01;
+}
+.example-appear.example-appear-active {
+   opacity: 1;
+   transition: opacity 500ms ease-in;
+}
+.navStyle {
+  position: 'absolute';
+  top: 0;
+  right: 0;
+  padding: '10px';
+}
